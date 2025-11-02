@@ -87,6 +87,9 @@ Figure 6: Simple simulation Circuit
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
 
 
+From above experiment we observe that when 9V of battery is connected with LED along with resistor. The intensity of the LED is invertionaly porportionaly to the resistance of the resistor. When the resistance increases the intensity of the LED decreases and vice versa.  
+
+
 ```
 
 **3.2.	Simulating a simple electric circuit by using a breadboard to connect components.**
