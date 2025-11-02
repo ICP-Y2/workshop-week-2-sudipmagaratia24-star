@@ -30,7 +30,7 @@ Figure 2: Series Battery Combination Simulation Circuit
 
 Write a brief note about the results of the Series Battery Combination simulation.
 We observe that when four 1.5V of battery is connected in series connection, the multimeter showed overall voltage of 6V.
-Hence, when the batteries are connected in series,the overall voltage across the circuit is the sum of the vlage of the batteries.
+Hence, when the batteries are connected in series,the overall voltage across the circuit is the sum of the voltage of the batteries.
 
 ```
 
@@ -57,6 +57,7 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
+From the above experiment we observe that when four 1.5V  of battery is connected in parallel connection,  the multimeter  showed overall of 1.5V.Hence, when the batteries are connected in series,the overall voltage across the circuit is the same of the voltage of the batteries.
 
 
 ```
